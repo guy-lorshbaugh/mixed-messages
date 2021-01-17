@@ -13,7 +13,7 @@ const characteristics = [
     as protection for the trunk. Elephants are known to be right or left tusked.`,
     `skin colour is usually grey, and may be masked by soil because of dusting
     and wallowing. Their wrinkled skin is movable and contains many nerve centres.`,
-    `have a very large and highly developed neocortex, a trait also shared by
+    `has a very large and highly developed neocortex, a trait also shared by
     humans, apes and certain dolphin species. They have a greater volume of
     cerebral cortex available for cognitive processing than all other existing
     land animals.`
