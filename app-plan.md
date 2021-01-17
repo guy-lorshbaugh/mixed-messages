@@ -7,9 +7,11 @@ Facts come from three different categories: characteristics, habitat, and behavi
 A function named `messageGenerator` will generate random index es for each array and return a message in the following format:
 
 ```bash
-"Here are you Elephant Facts for today!
+"Here are you Elephant Facts for today:
+
 The Asian elephant <characteristics>.  
 <habitat>.  
 <behavior>.  
+
 Thank you for using Elephant Facts!"
 ```
