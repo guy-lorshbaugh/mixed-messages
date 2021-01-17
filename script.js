@@ -63,9 +63,9 @@ const messageGenerator = () => {
     const habMessage = getIndex(habitat);
     const behavMessage = getIndex(behavior);
     return `
-              |-------------------------------------------|
-              |  Here are your Elephant Facts for today!  |
-              |-------------------------------------------|
+    |-------------------------------------------|
+    |  Here are your Elephant Facts for today!  |
+    |-------------------------------------------|
 
     CHARACTERISTICS:
     The Asian elephant ${charMessage}
