@@ -80,7 +80,6 @@ const messageGenerator = () => {
     |                Thank you for using Elephant Facts!            |
     |  (Facts are compiled from the Asian Elephant Wikipedia page)  |
     |---------------------------------------------------------------|
-
                                 _    _
                                 /=\\""/=\\
                                (=(0_0 |=)__
