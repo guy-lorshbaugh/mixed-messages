@@ -7,7 +7,7 @@ Facts come from three different categories: characteristics, habitat, and behavi
 A function named `messageGenerator` will generate random index es for each array and return a message in the following format:
 
 "Here are you Elephant Facts for today!
-The Asian elephant `<characteristics>`.
-`<habitat>`.
-`<behavior>`.
+The Asian elephant `<characteristics>`.  return
+`<habitat>`.  return
+`<behavior>`.  return
 Thank you for using Elephant Facts!"
