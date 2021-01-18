@@ -1,16 +1,22 @@
-# Portfolio Project: MIXED MESSAGES #
+# Project Name
+> Random Elephant Facts App
 
-For this project, you will build a message generator program. Every time a user runs a program, they should get a new, randomized output. You’re welcome to take the project in a couple of different forms, like an astrology generator, inspirational message, or nonsensical jokes. To make your program truly random, the message that it outputs should be made up of at least three different pieces of data. Take what you know of JavaScript syntax so far to build the program and customize it to your liking.
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Status](#status)
 
-## Project Objectives: ##
+## General info
+This project was an exercise intended to reinforce study in JavaScript programming syntax.  
 
-- Build a message generator program using JavaScript
-- Use Git version control
-- Use command line
-- Develop locally on your computer
 
-## Prerequisites: ##
+## Screenshots
+![Example screenshot](./img/screenshot.png)
 
-- JavaScript
-- Git and GitHub
-- Command line
+## Technologies
+* JavaScript v1.7
+* NodeJS v14.15.2
+
+## Status
+Project is: _finished_, project has met the goals of the programming objectives
