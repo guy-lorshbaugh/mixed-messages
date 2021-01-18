@@ -1,5 +1,5 @@
-# Project Name
-> Random Elephant Facts App
+# Random Elephant Facts App
+> Generates a random message including three facts about Asian elephants
 
 ## Table of contents
 * [General info](#general-info)
