@@ -3,7 +3,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
+* [Screenshot](#screenshot)
 * [Technologies](#technologies)
 * [Status](#status)
 
@@ -11,7 +11,7 @@
 This project was an exercise intended to reinforce study in JavaScript programming syntax.  
 
 
-## Screenshots
+## Screenshot
 ![Example screenshot](./img/screenshot.png)
 
 ## Technologies
